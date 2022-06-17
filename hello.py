@@ -8,3 +8,4 @@ print('bar branch test')
 
 print('push test')
 print('pull test')
+print('test git fetch')
